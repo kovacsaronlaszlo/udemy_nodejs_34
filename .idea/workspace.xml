@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5d3a07f-3d4a-4d34-8802-a004b647f0a0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,80 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="admin.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shop.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shop.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.ejs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/head.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navigation.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/navigation.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add-product.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -161,6 +75,7 @@
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/app.js" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js" />
+        <option value="$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/users.pug" />
       </list>
     </option>
   </component>
@@ -179,6 +94,7 @@
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/0._assigment/2._assignment-solution/package.json" />
       <path value="$PROJECT_DIR$/0._assigment/3._assignment-solution/package.json" />
+      <path value="$PROJECT_DIR$/0._assigment/4_assignment-solution/package.json" />
       <path value="$PROJECT_DIR$/3._debugging_in_nodejs/package.json" />
       <path value="$PROJECT_DIR$/4._working_withExpress/package.json" />
       <path value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/package.json" />
@@ -186,7 +102,6 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
@@ -207,20 +122,13 @@
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="5._worikng_with_dinamy_content_&amp;_adding_templateing_engines" type="462c0819:PsiDirectoryNode" />
+              <item name="0._assigment" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="5._worikng_with_dinamy_content_&amp;_adding_templateing_engines" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="5._worikng_with_dinamy_content_&amp;_adding_templateing_engines" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="includes" type="462c0819:PsiDirectoryNode" />
+              <item name="0._assigment" type="462c0819:PsiDirectoryNode" />
+              <item name="4_assignment-solution" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,6 +144,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karon\Desktop\node_udemy\0._assigment\4_assignment-solution" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karon\Desktop\node_udemy\0._assigment" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,18 +182,17 @@
       <workItem from="1547653092610" duration="3624000" />
       <workItem from="1547732286542" duration="15000" />
       <workItem from="1547892042579" duration="11730000" />
-      <workItem from="1547983733091" duration="11082000" />
+      <workItem from="1547983733091" duration="12809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40272000" />
+    <option name="totallyTimeSpent" value="41999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20025349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20025349" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -285,7 +200,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33333334" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -308,47 +223,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3._debugging_in_nodejs/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3._debugging_in_nodejs/message.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3._debugging_in_nodejs/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3._debugging_in_nodejs/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4._working_withExpress/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4._working_withExpress/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4._working_withExpress/node_modules/express/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/4._working_withExpress/routes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -588,6 +462,29 @@
           <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/views/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/layouts/main-layout.pug">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-handlebars-solution/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/users.pug">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

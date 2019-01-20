@@ -2,36 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5d3a07f-3d4a-4d34-8802-a004b647f0a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/message.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/public/css/forms.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/public/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/public/css/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/util/path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/end.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/head.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/navigation.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.pug" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,8 +32,8 @@
       <file leaf-file-name="admin.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state relative-caret-position="195">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -57,8 +41,8 @@
       <file leaf-file-name="shop.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="178">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -66,8 +50,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+            <state relative-caret-position="51">
+              <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -90,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.ejs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="head.ejs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/head.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -99,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navigation.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="navigation.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/navigation.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -166,10 +150,7 @@
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.pug" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.hbs" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.hbs" />
-        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js" />
-        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.hbs" />
-        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/app.js" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.hbs" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/end.ejs" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/head.ejs" />
@@ -177,6 +158,9 @@
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.ejs" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.ejs" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/navigation.ejs" />
+        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/app.js" />
+        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js" />
+        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js" />
       </list>
     </option>
   </component>
@@ -229,12 +213,6 @@
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
               <item name="5._worikng_with_dinamy_content_&amp;_adding_templateing_engines" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="5._worikng_with_dinamy_content_&amp;_adding_templateing_engines" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -243,20 +221,6 @@
               <item name="5._worikng_with_dinamy_content_&amp;_adding_templateing_engines" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="5._worikng_with_dinamy_content_&amp;_adding_templateing_engines" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="5._worikng_with_dinamy_content_&amp;_adding_templateing_engines" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="add-product.pug" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -302,12 +266,12 @@
       <workItem from="1547653092610" duration="3624000" />
       <workItem from="1547732286542" duration="15000" />
       <workItem from="1547892042579" duration="11730000" />
-      <workItem from="1547983733091" duration="10751000" />
+      <workItem from="1547983733091" duration="11082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39941000" />
+    <option name="totallyTimeSpent" value="40272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -317,6 +281,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32918397" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -329,7 +294,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,13 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -562,31 +519,10 @@
     <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/end.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/head.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -604,6 +540,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/navigation.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -611,17 +561,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js">
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        <state relative-caret-position="51">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/navigation.ejs">
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="195">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/head.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

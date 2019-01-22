@@ -2,6 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5d3a07f-3d4a-4d34-8802-a004b647f0a0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/public/css/forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/public/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/public/css/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/util/path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/views/404.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/views/add-product.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/views/includes/end.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/views/includes/head.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/views/includes/navigation.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/views/shop.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -89,6 +104,7 @@
     <handled-path value="$PROJECT_DIR$/3._debugging_in_nodejs/node_modules" />
     <handled-path value="$PROJECT_DIR$/4._working_withExpress/node_modules" />
     <handled-path value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/node_modules" />
+    <handled-path value="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -98,10 +114,12 @@
       <path value="$PROJECT_DIR$/3._debugging_in_nodejs/package.json" />
       <path value="$PROJECT_DIR$/4._working_withExpress/package.json" />
       <path value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/package.json" />
+      <path value="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1878" />
+    <option name="y" value="136" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
@@ -111,7 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,18 +139,19 @@
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="0._assigment" type="462c0819:PsiDirectoryNode" />
+              <item name="6._The_Model_View_Controller_(MVC)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="0._assigment" type="462c0819:PsiDirectoryNode" />
-              <item name="4_assignment-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="6._The_Model_View_Controller_(MVC)" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,24 +201,25 @@
       <workItem from="1547732286542" duration="15000" />
       <workItem from="1547892042579" duration="11730000" />
       <workItem from="1547983733091" duration="12809000" />
+      <workItem from="1548004105574" duration="274000" />
+      <workItem from="1548163234047" duration="329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41999000" />
+    <option name="totallyTimeSpent" value="42602000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="1592" y="-187" width="2576" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20025349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12450749" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32918397" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33333334" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26688814" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -209,6 +228,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32918397" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,13 +243,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4._working_withExpress/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0._challanges/2._express_challange/.gitignore" />
     <entry file="file://$PROJECT_DIR$/2._understanding_the_basics/assignment-solution/app.js" />
     <entry file="file://$PROJECT_DIR$/2._understanding_the_basics/assignment-solution/udemy_app.js" />
@@ -317,72 +330,16 @@
     <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.hbs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="22" column="92" selection-start-line="22" selection-start-column="92" selection-end-line="22" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="35" column="119" selection-end-line="45" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.pug" />
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.pug" />
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.pug" />
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.pug" />
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.hbs" />
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.hbs" />
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.hbs" />
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.html" />
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.html" />
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.hbs" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -400,13 +357,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="10" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.html" />
     <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -463,27 +414,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/views/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/layouts/main-layout.pug">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/index.pug">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-handlebars-solution/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/app.js">
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/views/index.html" />
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/layouts/main-layout.pug" />
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/index.pug" />
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-handlebars-solution/app.js" />
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/app.js" />
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/users.pug" />
+    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51" />
+        <state>
+          <caret selection-end-line="32" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/users.pug">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/app.js">
+    <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/admin.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>

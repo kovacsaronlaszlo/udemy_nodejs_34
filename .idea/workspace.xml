@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5d3a07f-3d4a-4d34-8802-a004b647f0a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/public/css/forms.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/public/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/public/css/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/util/path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/views/404.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/views/add-product.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/views/includes/end.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/views/includes/head.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/views/includes/navigation.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/views/shop.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/controllers/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/controllers/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/data/products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/models/product.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/shop.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,15 +22,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="product.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/models/product.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/controllers/error.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="products.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/controllers/products.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="Pug File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -91,6 +111,13 @@
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js" />
         <option value="$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/users.pug" />
+        <option value="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/shop.js" />
+        <option value="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/admin.js" />
+        <option value="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/controllers/errror.js" />
+        <option value="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/controllers/products.js" />
+        <option value="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/util/path.js" />
+        <option value="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/app.js" />
+        <option value="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/models/product.js" />
       </list>
     </option>
   </component>
@@ -118,8 +145,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1878" />
-    <option name="y" value="136" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
@@ -129,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,13 +173,24 @@
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
               <item name="6._The_Model_View_Controller_(MVC)" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="6._The_Model_View_Controller_(MVC)" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="6._The_Model_View_Controller_(MVC)" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,11 +203,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\karon\Desktop\node_udemy\0._assigment\4_assignment-solution" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\karon\Desktop\node_udemy\0._assigment" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karon\Desktop\node_udemy\0._assigment\4_assignment-solution" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -203,23 +242,25 @@
       <workItem from="1547983733091" duration="12809000" />
       <workItem from="1548004105574" duration="274000" />
       <workItem from="1548163234047" duration="329000" />
+      <workItem from="1548494268505" duration="6032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42602000" />
+    <option name="totallyTimeSpent" value="48634000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1592" y="-187" width="2576" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12450749" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17300381" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26688814" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28907332" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -243,32 +284,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0._challanges/2._express_challange/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/2._understanding_the_basics/assignment-solution/app.js" />
-    <entry file="file://$PROJECT_DIR$/2._understanding_the_basics/assignment-solution/udemy_app.js" />
-    <entry file="file://$PROJECT_DIR$/0._challanges/2._express_challange/package-lock.json" />
-    <entry file="file://$PROJECT_DIR$/0._challanges/2._express_challange/app.js" />
-    <entry file="file://$PROJECT_DIR$/4._working_withExpress/routes/admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4._working_withExpress/util/path.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4._working_withExpress/routes/shop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4._working_withExpress/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -427,8 +442,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/admin.js">
+    <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/util/path.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/data/products.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/routes/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="62" lean-forward="true" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/controllers/error.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/controllers/products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/models/product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

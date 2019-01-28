@@ -2,34 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5d3a07f-3d4a-4d34-8802-a004b647f0a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/controllers/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/controllers/error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/controllers/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/data/products.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/models/product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/public/css/forms.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/public/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/public/css/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/routes/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/routes/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/util/path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/404.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/admin/add-product.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/admin/edit-product.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/admin/products.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/includes/end.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/includes/head.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/includes/navigation.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/cart.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/checkout.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/orders.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/product-detail.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/product-list.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/controllers/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/controllers/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/controllers/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/data/cart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/data/products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/models/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/models/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/public/css/forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/public/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/public/css/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/public/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/routes/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/routes/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/util/path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/404.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/admin/edit-product.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/admin/products.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/includes/add-to-cart.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/includes/end.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/includes/head.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/includes/navigation.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/cart.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/checkout.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/orders.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/product-detail.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/product-list.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -44,83 +47,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="product.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/models/product.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="24" column="14" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add-product.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/admin/add-product.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/controllers/admin.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="products.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/admin/products.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product-list.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/product-list.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="orders.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/orders.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navigation.ejs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/includes/navigation.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cart.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/cart.ejs">
+        <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/cart.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="37" selection-end-line="6" selection-end-column="37" />
+            <state relative-caret-position="170">
+              <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/index.ejs">
+      <file leaf-file-name="product.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/models/product.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="196">
+              <caret line="55" column="29" lean-forward="true" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/controllers/shop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="707">
+              <caret line="67" column="26" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/models/cart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/routes/shop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -143,22 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/4._working_withExpress/app.js" />
-        <option value="$PROJECT_DIR$/4._working_withExpress/public/css/main.css" />
-        <option value="$PROJECT_DIR$/4._working_withExpress/views/add-product.html" />
-        <option value="$PROJECT_DIR$/4._working_withExpress/views/404.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/0._assigment/3._assignment-solution/views/users.html" />
-        <option value="$PROJECT_DIR$/0._assigment/3._assignment-solution/views/index.html" />
-        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.pug" />
-        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.pug" />
-        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.pug" />
-        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.pug" />
-        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.hbs" />
-        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.hbs" />
-        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/layouts/main-layout.hbs" />
-        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.hbs" />
-        <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/end.ejs" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/head.ejs" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.ejs" />
         <option value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.ejs" />
@@ -176,8 +127,6 @@
         <option value="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/app.js" />
         <option value="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/models/product.js" />
         <option value="$PROJECT_DIR$/7._Optional_Enhancing_the_App/controllers/products.js" />
-        <option value="$PROJECT_DIR$/7._Optional_Enhancing_the_App/controllers/shop.js" />
-        <option value="$PROJECT_DIR$/7._Optional_Enhancing_the_App/routes/shop.js" />
         <option value="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/product-detail.ejs" />
         <option value="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/checkout.ejs" />
         <option value="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/cart.ejs" />
@@ -194,6 +143,24 @@
         <option value="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/orders.js" />
         <option value="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/orders.ejs" />
         <option value="$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/includes/navigation.ejs" />
+        <option value="$PROJECT_DIR$/7._Optional_Enhancing_the_App/controllers/shop.js" />
+        <option value="$PROJECT_DIR$/7._Optional_Enhancing_the_App/routes/shop.js" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/data/products.json" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/public/css/main.css" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/includes/add-to-cart.ejs" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/product-detail.ejs" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/product-list.ejs" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/index.ejs" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/data/cart.json" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/admin/edit-product.ejs" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/admin/products.ejs" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/routes/admin.js" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/models/product.js" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/controllers/admin.js" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/cart.ejs" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/controllers/shop.js" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/routes/shop.js" />
+        <option value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/models/cart.js" />
       </list>
     </option>
   </component>
@@ -209,6 +176,7 @@
     <handled-path value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/node_modules" />
     <handled-path value="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/node_modules" />
     <handled-path value="$PROJECT_DIR$/7._Optional_Enhancing_the_App/node_modules" />
+    <handled-path value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -220,11 +188,12 @@
       <path value="$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/package.json" />
       <path value="$PROJECT_DIR$/6._The_Model_View_Controller_(MVC)/package.json" />
       <path value="$PROJECT_DIR$/7._Optional_Enhancing_the_App/package.json" />
+      <path value="$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="1665" />
+    <option name="y" value="43" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
@@ -244,69 +213,76 @@
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="7._Optional_Enhancing_the_App" type="462c0819:PsiDirectoryNode" />
+              <item name="8._Dynamic_Routes_&amp;_Advanced_Models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="7._Optional_Enhancing_the_App" type="462c0819:PsiDirectoryNode" />
+              <item name="8._Dynamic_Routes_&amp;_Advanced_Models" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="7._Optional_Enhancing_the_App" type="462c0819:PsiDirectoryNode" />
+              <item name="8._Dynamic_Routes_&amp;_Advanced_Models" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="7._Optional_Enhancing_the_App" type="462c0819:PsiDirectoryNode" />
+              <item name="8._Dynamic_Routes_&amp;_Advanced_Models" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="7._Optional_Enhancing_the_App" type="462c0819:PsiDirectoryNode" />
+              <item name="8._Dynamic_Routes_&amp;_Advanced_Models" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="7._Optional_Enhancing_the_App" type="462c0819:PsiDirectoryNode" />
+              <item name="8._Dynamic_Routes_&amp;_Advanced_Models" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="7._Optional_Enhancing_the_App" type="462c0819:PsiDirectoryNode" />
+              <item name="8._Dynamic_Routes_&amp;_Advanced_Models" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="8._Dynamic_Routes_&amp;_Advanced_Models" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="7._Optional_Enhancing_the_App" type="462c0819:PsiDirectoryNode" />
+              <item name="8._Dynamic_Routes_&amp;_Advanced_Models" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="7._Optional_Enhancing_the_App" type="462c0819:PsiDirectoryNode" />
+              <item name="8._Dynamic_Routes_&amp;_Advanced_Models" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="7._Optional_Enhancing_the_App" type="462c0819:PsiDirectoryNode" />
+              <item name="8._Dynamic_Routes_&amp;_Advanced_Models" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="includes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="7._Optional_Enhancing_the_App" type="462c0819:PsiDirectoryNode" />
+              <item name="8._Dynamic_Routes_&amp;_Advanced_Models" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -369,25 +345,27 @@
       <workItem from="1548004105574" duration="274000" />
       <workItem from="1548163234047" duration="329000" />
       <workItem from="1548494268505" duration="6032000" />
-      <workItem from="1548512609012" duration="4313000" />
+      <workItem from="1548512609012" duration="5177000" />
+      <workItem from="1548602446034" duration="3650000" />
+      <workItem from="1548689033671" duration="8640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52947000" />
+    <option name="totallyTimeSpent" value="66101000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="1592" y="-75" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17300381" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1646562" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28907332" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23940435" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -411,88 +389,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.hbs" />
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.html" />
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.html" />
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.hbs" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/end.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.html" />
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/add-product.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/navigation.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/404.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/shop.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/routes/shop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5._worikng_with_dinamy_content_&amp;_adding_templateing_engines/views/includes/head.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/views/index.html" />
-    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/layouts/main-layout.pug" />
-    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/index.pug" />
-    <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-handlebars-solution/app.js" />
     <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/app.js" />
     <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/assignment-pug-solution/views/users.pug" />
     <entry file="file://$PROJECT_DIR$/0._assigment/4_assignment-solution/app.js">
@@ -564,20 +460,6 @@
     <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/admin/edit-product.ejs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/routes/shop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/controllers/shop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/product-detail.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -622,7 +504,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/admin/add-product.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
+        <state relative-caret-position="340">
           <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
         </state>
       </provider>
@@ -650,17 +532,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/admin/products.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
+        <state relative-caret-position="442">
           <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/orders.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/orders.js" />
     <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/views/shop/product-list.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="408">
           <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
         </state>
       </provider>
@@ -683,6 +563,148 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/routes/shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7._Optional_Enhancing_the_App/controllers/shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/public/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/includes/navigation.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/product-detail.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/includes/add-to-cart.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/orders.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/product-list.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="30" column="89" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/admin/add-product.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/admin/edit-product.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="24" column="180" selection-start-line="24" selection-start-column="180" selection-end-line="24" selection-end-column="180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/data/products.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/admin/products.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="102" selection-start-line="31" selection-start-column="102" selection-end-line="31" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/routes/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/controllers/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/data/cart.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/views/shop/cart.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/models/product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="55" column="29" lean-forward="true" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/models/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/routes/shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8._Dynamic_Routes_&amp;_Advanced_Models/controllers/shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="67" column="26" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
         </state>
       </provider>
     </entry>
